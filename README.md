@@ -9,7 +9,7 @@ Colorschemes for Hyper
 5. Find and Update the local-plugins array to the theme you have just chosen from the `index` folder.
 ```js
   localPlugins: [
-    'base4tone-modern-n-dark.js'
+    'base4tone-modern-n-dark'
   ],
 ```
 6. Reload Hyper by pressing `Cmd + Shft + R`, or restart Hyper
