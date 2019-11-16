@@ -3,7 +3,7 @@
  * https://github.com/atelierbram/Base4Tone-hyper/blob/master/index/Base4Tone_Modern_N_Light.js
  * template for Hyper: https://github.com/atelierbram/base16-hyperterm
 */
-const backgroundColor = '#dce2e5';
+const backgroundColor = '#f6f8f9';
 const foregroundColor = '#576a75';
 const borderColor = 'rgba(0, 0, 0, 0)';
 const cursorColor = '#94898d'; // opacity set in .termCSS: see under

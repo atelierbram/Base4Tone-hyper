@@ -2,7 +2,7 @@
 echo " * template for Hyper: https://github.com/atelierbram/base16-hyperterm\n";
 echo "*/\n";
 
-echo "const backgroundColor = '$B4T_b21';\n";
+echo "const backgroundColor = '$B4T_b23';\n";
 echo "const foregroundColor = '$B4T_b9';\n";
 echo "const borderColor = 'rgba(0, 0, 0, 0)';\n";
 echo "const cursorColor = '$B4T_d13'; // opacity set in .termCSS: see under\n";

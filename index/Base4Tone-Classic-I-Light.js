@@ -4,7 +4,7 @@
 
  * template for Hyper: https://github.com/atelierbram/base16-hyperterm
 */
-const backgroundColor = '#dde3de';
+const backgroundColor = '#f6f9f6';
 const foregroundColor = '#616b62';
 const borderColor = 'rgba(0, 0, 0, 0)';
 const cursorColor = '#858799'; // opacity set in .termCSS: see under
